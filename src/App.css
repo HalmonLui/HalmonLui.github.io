@@ -1,0 +1,49 @@
+.App-header {
+/*  background-color: #d1d1e0;*/
+  padding: 10px;
+  border: none;
+  text-align: center;
+}
+
+.featuredTech {
+  padding: 10px;
+  border: none;
+  text-align: center;
+}
+.item {
+  padding-left: 20px;
+  width: 31vw;
+  float: left;
+  text-align: center;
+
+}
+
+.username {
+  text-align: center;
+}
+.statitem {
+
+  text-align: center;
+}
+
+
+.footer {
+    height: 100px;
+}
+.useless{
+  float: left;
+  padding: 20px;
+}
+.copyright{
+  float: right;
+  padding: 20px;
+}
+
+.clear {
+clear: both;
+}
+
+@keyframes App-logo-spin {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+}
